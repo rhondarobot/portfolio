@@ -152,7 +152,6 @@ body {
 	background-image: url('../images/woodgrain.jpg');
 	background-size: cover;
 	background-size: cover;
-
 }
 
 ul {
@@ -166,7 +165,7 @@ li {
 	font-size: 34px;
 	box-sizing: border-box;
 	width: 28%;
-	margin: 55px 2.5%;
+	margin: 50px 2.5%;
 	position: relative;
 	text-align: center;
 }
@@ -175,15 +174,15 @@ li {
 	font-family: 'Orbitron', Serif, Arial;
 	font-size: 88px;
 	text-align: center;
-	color: rgba(247, 0, 148, 0.4);
-	margin: 50px 20% 50px 20%;
-	background-color: rgba(0,0,0,0.5);
+	color:rgba(247, 0, 148, 0.4);
+	margin: 120px 20% 120px 20%;
+	background-color: rgba(0,0,0,0.6);
 }
 
 .coming-soon {
 	font-family: 'Alex Brush', Serif, Arial;
 	font-size: 88px;
-	margin: 50px 20% 50px 20%;
+	margin: 150px 50px 150px 20px;
 	text-align: center;
 	color: rgb(0,0,0);
 }
