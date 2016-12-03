@@ -1,0 +1,18 @@
+body {
+	background-image: url('../images/woodgrain.jpg');
+	background-image: url('../images/woodgrain.jpg');
+	background-size: cover;
+	background-size: cover;
+}
+
+ul {
+ 	display: float;
+}
+
+li {
+	color: rgb(25,240,200);
+	display: inline-block;
+	font-family: 'Alex Brush';
+	font-size: 34px;
+	padding: 10px 50px 10px 10%;
+}
